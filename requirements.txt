@@ -1,0 +1,5 @@
+openai == 2.6.1
+python-dotenv
+openai-agents
+fastapi
+pydantic
