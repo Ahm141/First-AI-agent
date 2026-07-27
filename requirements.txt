@@ -3,3 +3,8 @@ python-dotenv
 openai-agents
 fastapi
 pydantic
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-silero
+livekit-plugins-turn-detector
+python-dotenv
